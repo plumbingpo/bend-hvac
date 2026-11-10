@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bendhvacco.com/sitemap.xml
